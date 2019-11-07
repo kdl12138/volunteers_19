@@ -63,5 +63,5 @@ void list(struct XiaoWeiBiDe *head){
 		head = head->next;
 	}
 }
-//小薇逼得。。。 
+
 
