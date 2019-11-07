@@ -1,0 +1,109 @@
+//按矩阵形式输出二维数组
+#include<stdio.h>
+int main()
+{
+	int i, j;
+	int a[3][2];
+	
+	//给二位数组赋值
+	for (i = 0; i < 3; i++) 
+		for (j = 0; j < 2; j++)
+			a[i][j] = i+j;
+	
+	//按矩阵的形式输出a
+	for (i = 0; i < 3; i++) {
+		for (j = 0; j < 2; j++)
+			printf("%4d", a[i][j]);
+		printf("\n");
+	}
+	
+	return 0;
+}
+
+
+//计算某个日期对应该年的第几天.c
+#include<stdio.h>
+int day_of_year (int year, int mouth, int day);
+
+int main()
+{
+	int year, mouth, day;
+	printf("请输入年月日：\n");
+	scanf("%d%d%d", &year, &mouth, &day);
+	printf("%d",day_of_year(year,mouth,day));
+	
+	return 0;
+}
+
+int day_of_year(int year, int mouth, int day)
+{
+	int k, leap;
+	int tab[2][13] = {
+	{0,31,28,31,30,31,30,31,31,30,31,30,31},
+	{0,31,29,31,30,31,30,31,31,30,31,30,31}
+	};									//数组初始化，将每月的天数赋给数组
+	
+	//判断闰年，当year是闰年时，leap=1；当year是非闰年时，leap=0
+	leap = (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) ;
+	
+	//计算天数
+	for (k = 1; k < mouth; k++) 
+		day = day + tab[leap][k];
+		
+	return day;
+}
+
+
+//汽油问题
+#include<stdio.h> 
+
+int main()
+{
+	int kind;
+	double L,p,q,pay;
+	char ch;
+	printf("请输入加油量：\n");
+	scanf("%lf",&L);
+	printf("请输入汽油种类：\n");
+	scanf("%d",&kind);
+	switch(kind){
+		case 89: p = 5.5; break;
+		case 92: p = 7.14; break;
+		case 95: p = 7.64; break;
+		default:break;
+	}
+	printf("油价为p= %.2lf\n",p);
+	printf("自助服务选m,协助服务选e:\n");
+	getchar();
+	ch = getchar();
+	switch(ch){
+		case 'm': q = 0.95; break;
+		case 'e': q = 0.97; break;
+		default:break;
+	}
+	pay = p*q*L;
+	printf("pay=%.2lf",pay);
+	
+	return 0; 
+}
+
+
+//输出斐波那契数列.c
+#include<stdio.h>
+
+int main()
+{
+	int i;
+	int fib[10] = {1, 1};
+	
+	for (i = 2; i < 10; i++)
+		fib[i] = fib[i-1] + fib[i-2];
+		
+	for (i = 0; i< 10; i++){
+		printf("% 6d", fib[i]);
+		if( (i+1) % 5 == 0)
+			printf("\n");
+	}
+	
+	return 0;
+}
