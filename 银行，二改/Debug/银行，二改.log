@@ -1,0 +1,149 @@
+﻿  源.cpp
+D:\C++Compiler\银行，二改\main.h(76,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“time_t”
+D:\C++Compiler\银行，二改\main.h(76,14): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(76,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(76,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“time_t”
+D:\C++Compiler\银行，二改\main.h(76,14): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(76,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(76,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 7 拥有了类型“time_t”
+D:\C++Compiler\银行，二改\main.h(76,14): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(76,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(76,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 9 拥有了类型“double”
+D:\C++Compiler\银行，二改\main.h(76,14): warning C4477: “fprintf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 10 拥有了类型“int”
+D:\C++Compiler\银行，二改\main.h(76,14): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(76,14): message : 占位符和其参数预计 11 可变参数，但提供的却是 10 参数
+D:\C++Compiler\银行，二改\main.h(76,14): message : 缺失的可变参数 11 为格式字符串“%d”所需
+D:\C++Compiler\银行，二改\main.h(98,16): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(98,16): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(98,16): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(98,16): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(99,16): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(99,16): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(99,16): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(99,16): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(101,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“time_t *”
+D:\C++Compiler\银行，二改\main.h(101,16): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(101,16): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(102,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“time_t *”
+D:\C++Compiler\银行，二改\main.h(102,16): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(102,16): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(103,16): warning C4476: "fscanf_s": 格式说明符中的类型字段字符“.”未知
+D:\C++Compiler\银行，二改\main.h(103,24): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+D:\C++Compiler\银行，二改\main.h(103,24): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(104,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“time_t *”
+D:\C++Compiler\银行，二改\main.h(104,16): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(104,16): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(106,16): warning C4476: "fscanf_s": 格式说明符中的类型字段字符“.”未知
+D:\C++Compiler\银行，二改\main.h(106,24): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+D:\C++Compiler\银行，二改\main.h(106,24): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(214,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(214,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(214,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(214,10): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(220,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(220,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(220,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(220,11): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(222,11): warning C4476: "scanf_s": 格式说明符中的类型字段字符“.”未知
+D:\C++Compiler\银行，二改\main.h(222,20): warning C4474: scanf_s: 格式字符串中传递的参数太多
+D:\C++Compiler\银行，二改\main.h(222,20): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(241,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(241,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(241,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(241,10): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(256,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(256,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(256,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(256,10): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(260,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(260,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(260,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(260,11): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(291,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(291,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(291,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(291,10): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(295,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(295,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(295,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(295,11): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(301,25): warning C4305: “-=”: 从“double”到“float”截断
+D:\C++Compiler\银行，二改\main.h(323,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(323,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(323,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(323,10): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(327,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(327,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(327,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(327,11): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(333,13): warning C4476: "scanf_s": 格式说明符中的类型字段字符“.”未知
+D:\C++Compiler\银行，二改\main.h(333,21): warning C4474: scanf_s: 格式字符串中传递的参数太多
+D:\C++Compiler\银行，二改\main.h(333,21): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(362,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(362,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(362,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(362,10): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(366,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(366,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(366,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(366,11): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(373,14): warning C4476: "scanf_s": 格式说明符中的类型字段字符“.”未知
+D:\C++Compiler\银行，二改\main.h(373,22): warning C4474: scanf_s: 格式字符串中传递的参数太多
+D:\C++Compiler\银行，二改\main.h(373,22): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(419,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(419,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(419,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(419,10): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(423,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(423,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C++Compiler\银行，二改\main.h(423,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C++Compiler\银行，二改\main.h(423,11): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(432,13): warning C4477: “printf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 2 拥有了类型“float *”
+D:\C++Compiler\银行，二改\main.h(438,12): warning C4477: “printf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 1 拥有了类型“float *”
+D:\C++Compiler\银行，二改\main.h(455,14): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“int *”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 此参数由转换说明符使用
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“time_t *”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 此参数用作缓冲区大小
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 5 拥有了类型“time_t *”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 6 拥有了类型“float *”
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 7 拥有了类型“time_t *”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4476: "fscanf_s": 格式说明符中的类型字段字符“.”未知
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 9 拥有了类型“float *”
+D:\C++Compiler\银行，二改\main.h(458,16): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 12 拥有了类型“time_t *”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(458,16): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(473,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“time_t”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(473,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“time_t”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(473,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 7 拥有了类型“time_t”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(473,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 12 拥有了类型“time_t”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%lld”
+D:\C++Compiler\银行，二改\main.h(473,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\C++Compiler\银行，二改\main.h(473,14): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+D:\C++Compiler\银行，二改\main.h(473,14): message : 占位符和其参数预计 13 可变参数，但提供的却是 12 参数
+D:\C++Compiler\银行，二改\main.h(473,14): message : 缺失的可变参数 13 为格式字符串“%d”所需
+D:\C++Compiler\银行，二改\源.cpp(5,2): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(9,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(10,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(11,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(12,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(13,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(14,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(15,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(16,13): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\源.cpp(19,3): warning C4551: 缺少参数列表的函数调用
+D:\C++Compiler\银行，二改\main.h(131): warning C4715: “queryCard”: 不是所有的控件路径都返回值
+D:\C++Compiler\银行，二改\main.h(511): warning C4715: “searchLog”: 不是所有的控件路径都返回值
+  银行，二改.vcxproj -> D:\C++Compiler\银行，二改\Debug\银行，二改.exe
