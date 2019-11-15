@@ -103,7 +103,11 @@ ctrl + k
 
 本地直接拖拉图片到MD文件或者ctrl + shift + i
 
-![](C:\Users\lwj\Desktop\服务队学习\git\QQ图片20191025233629.png)
+![img](../2019.11技术分享/git快捷键.png)
+
+
+
+
 
 ### 8.代码块
 
