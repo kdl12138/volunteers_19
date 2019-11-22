@@ -239,17 +239,14 @@ int main(){
 
 ## 特殊符号
 
-![img](/图片/2.png)
-
-![img](/图片/3.png)
-
+![img](../markdown/图片/2.png)
+![img](../markdown/图片/3.png)
 
 
-## 字体字号与颜色
 
-![img](/图片/4.png)
-
-![img](/图片/5.png)
+## 字体字号与颜色../markdown/图片
+![img](../markdown/图片/4.png)
+![img](../markdown/图片/5.png)
 
 # markdown 高端操作
 

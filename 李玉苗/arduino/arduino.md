@@ -46,7 +46,7 @@
 
 - arduino IDE 下载地址< https://www.arduino.cc/en/Main/Software>
 
-- 工具栏![工具栏](/img/工具栏.png)
+- 工具栏![工具栏](../arduino/img/工具栏.png)
 
   从左往右依次为编译、上传、新建程序、打开程序、保存程序
 
@@ -198,7 +198,7 @@
 
   - AVR结构框图
 
-  ![AVR结构框图](/img/AVR结构框图.jpg)
+  ![AVR结构框图](../arduino/img/AVR结构框图.jpg)
 
   - 状态寄存器标志位
 
@@ -225,7 +225,7 @@
 
 - arduino uno r3原理图（看不懂）
 
-![arduino原理图](/img/arduino uno原理图.png)
+![arduino原理图](../arduino/img/arduino uno原理图.png)
 
 ## arduino实例（更新中）
 
@@ -235,7 +235,7 @@
 
 - 没有模块接线图
 
-  ![流水灯接线图](/img/流水灯接线图.png)
+  ![流水灯接线图](../arduino/img/流水灯接线图.png)
 
 - 代码
 
@@ -304,11 +304,11 @@ void loop() {
 
 - 一位数码管引脚图
 
-  ![一位数码管引脚图](/img/一位数码管引脚图.webp)
+  ![一位数码管引脚图](../arduino/img/一位数码管引脚图.webp)
 
 - 接线图
 
-  ![一位数码管接线图](/img/一位数码管接线图.png)
+  ![一位数码管接线图](../arduino/img/一位数码管接线图.png)
 
 - 代码
 
@@ -373,7 +373,7 @@ WiFi控制apk用的tb赠送资料
 
 - Wi-Fi模块接线图
 
-  ![实验接线图](/img/实验接线图.jpg)
+  ![实验接线图](../arduino/img/实验接线图.jpg)
 
 - 代码
 
@@ -474,7 +474,7 @@ String getWifiSerialData(){
 
 - 接线图
 
-  ![LCD1602接线图](/img/LCD1602接线图.png)
+  ![LCD1602接线图](../arduino/img/LCD1602接线图.png)
 
 - 代码
 
