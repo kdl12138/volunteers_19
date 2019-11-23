@@ -6,11 +6,11 @@
 
 [搭建开发环境](#搭建开发环境)
 
-​	[arduino IDE的介绍](#arduino IDE的介绍)
+​	[arduino IDE的介绍](#arduino-ide的介绍)
 
 ​	[图形化软件ardublock](#图形化软件ardublock)
 
-​	[仿真软件virtual breadboard](#仿真软件virtual breadboard)
+​	[仿真软件virtual breadboard](#仿真软件virtual-breadboard)
 
 [arduino语法](#arduino语法)
 
@@ -26,15 +26,15 @@
 
 ​	[电子技术基础学习](#电子技术基础学习)
 
-​	[arduino uno r3简介](#arduino no r3简介)
+​	[arduino uno r3简介](#arduino-no-r3简介)
 
-[arduino实例（更新中）](#arduino实例（更新中）)
+[arduino实例（更新中）](#arduino实例(更新中))
 
 ​	[流水灯](#流水灯)
 
 ​	[一位数码管](#一位数码管)
 
-​	[Wi-Fi模块控制PWM_LED](#Wi-Fi模块控制PWM_LED)
+​	[Wi-Fi模块控制PWM_LED](#wi-fi模块控制pwm_led)
 
 ​	[LCD1602](#LCD1602)
 
@@ -227,7 +227,7 @@
 
 ![arduino原理图](../arduino/img/arduino uno原理图.png)
 
-## arduino实例（更新中）
+## arduino实例(更新中)
 
 记录自己做过的实验
 

@@ -16,7 +16,7 @@
   
   锚点创建目录
   
-  [markdown 基本语法](#markdown 基本语法)
+  [markdown 基本语法](#markdown-基本语法)
   
   [目录](#目录)
   
@@ -44,15 +44,15 @@
   
   [字体字号与颜色](#字体字号与颜色)
   
-  [markdown 高端操作](#markdown 高端操作)
+  [markdown 高端操作](#markdown-高端操作)
   
-  [LaTeX数学公式](#LaTeX数学公式)
+  [LaTeX数学公式](#latex数学公式)
   
   [简单规则](#简单规则)
   
   [常用数字符号](#常用数字符号)
   
-  [Todo列表](#Todo列表)
+  [Todo列表](#todo列表)
   
   [流程图](#流程图)
   
