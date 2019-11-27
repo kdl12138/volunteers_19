@@ -235,21 +235,21 @@ int main(){
 
 ## 缩进字符
 
-![img](../markdown/图片/1.png)
+![img](https://github.com/krokami/Image-Hosting/blob/master/markdown/1.png)
 
 ## 特殊符号
 
-![img](../markdown/图片/2.png)
+![img](https://github.com/krokami/Image-Hosting/blob/master/markdown/2.png)
 
-![img](../markdown/图片/3.png)
+![img](https://github.com/krokami/Image-Hosting/blob/master/markdown/3.png)
 
 
 
 ## 字体字号与颜色
 
-![img](../markdown/图片/4.png)
+![img](https://github.com/krokami/Image-Hosting/blob/master/markdown/4.png)
 
-![img](../markdown/图片/5.png)
+![img](https://github.com/krokami/Image-Hosting/blob/master/markdown/5.png)
 
 # markdown 高端操作
 

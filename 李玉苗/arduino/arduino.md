@@ -6,11 +6,11 @@
 
 [搭建开发环境](#搭建开发环境)
 
-​	[arduino IDE的介绍](#arduino IDE的介绍)
+​	[arduino IDE的介绍](#arduino-ide的介绍)
 
 ​	[图形化软件ardublock](#图形化软件ardublock)
 
-​	[仿真软件virtual breadboard](#仿真软件virtual breadboard)
+​	[仿真软件virtual breadboard](#仿真软件virtual-breadboard)
 
 [arduino语法](#arduino语法)
 
@@ -26,15 +26,15 @@
 
 ​	[电子技术基础学习](#电子技术基础学习)
 
-​	[arduino uno r3简介](#arduino no r3简介)
+​	[arduino uno r3简介](#arduino-no-r3简介)
 
-[arduino实例（更新中）](#arduino实例（更新中）)
+[arduino实例（更新中）](#arduino实例(更新中))
 
 ​	[流水灯](#流水灯)
 
 ​	[一位数码管](#一位数码管)
 
-​	[Wi-Fi模块控制PWM_LED](#Wi-Fi模块控制PWM_LED)
+​	[Wi-Fi模块控制PWM_LED](#wi-fi模块控制pwm_led)
 
 ​	[LCD1602](#LCD1602)
 
@@ -46,7 +46,7 @@
 
 - arduino IDE 下载地址< https://www.arduino.cc/en/Main/Software>
 
-- 工具栏![工具栏](../arduino/img/工具栏.png)
+- 工具栏![工具栏](https://github.com/krokami/Image-Hosting/blob/master/arduino/工具栏.png)
 
   从左往右依次为编译、上传、新建程序、打开程序、保存程序
 
@@ -143,7 +143,7 @@
 
 - 电路图 推荐Fritzing软件，直观又方便（
 
-- 电子元件→[模块大礼包](../arduino/芯片及模块资料)
+- 电子元件→[模块大礼包](https://github.com/krokami/Image-Hosting/tree/master/arduino/%E8%8A%AF%E7%89%87%E5%8F%8A%E6%A8%A1%E5%9D%97%E8%B5%84%E6%96%99)
   - 电阻
   
   - 发光二极管（LED）极易烧坏，必接电阻（别问我为什么知道
@@ -198,7 +198,7 @@
 
   - AVR结构框图
 
-  ![AVR结构框图](../arduino/img/AVR结构框图.jpg)
+  ![AVR结构框图](https://github.com/krokami/Image-Hosting/blob/master/arduino/AVR结构框图.jpg)
 
   - 状态寄存器标志位
 
@@ -225,9 +225,9 @@
 
 - arduino uno r3原理图（看不懂）
 
-![arduino原理图](../arduino/img/arduino uno原理图.png)
+![arduino原理图](https://github.com/krokami/Image-Hosting/blob/master/arduino/arduino uno原理图.png)
 
-## arduino实例（更新中）
+## arduino实例(更新中)
 
 记录自己做过的实验
 
@@ -235,7 +235,7 @@
 
 - 没有模块接线图
 
-  ![流水灯接线图](../arduino/img/流水灯接线图.png)
+  ![流水灯接线图](https://github.com/krokami/Image-Hosting/blob/master/arduino/流水灯接线图.png)
 
 - 代码
 
@@ -304,11 +304,11 @@ void loop() {
 
 - 一位数码管引脚图
 
-  ![一位数码管引脚图](../arduino/img/一位数码管引脚图.webp)
+  ![一位数码管引脚图](https://github.com/krokami/Image-Hosting/blob/master/arduino/一位数码管引脚图.webp)
 
 - 接线图
 
-  ![一位数码管接线图](../arduino/img/一位数码管接线图.png)
+  ![一位数码管接线图](https://github.com/krokami/Image-Hosting/blob/master/arduino/一位数码管接线图.png)
 
 - 代码
 
@@ -373,7 +373,7 @@ WiFi控制apk用的tb赠送资料
 
 - Wi-Fi模块接线图
 
-  ![实验接线图](../arduino/img/实验接线图.jpg)
+  ![实验接线图](https://github.com/krokami/Image-Hosting/blob/master/arduino/实验接线图.jpg)
 
 - 代码
 
@@ -464,7 +464,7 @@ String getWifiSerialData(){
 ```
 
 - 操作步骤
-  - 手机上下载[apk](../arduino/其他资料/javaapk.com-MyClient.apk)并安装
+  - 手机上下载[apk](https://github.com/krokami/Image-Hosting/blob/master/arduino/javaapk.com-MyClient.apk)并安装
   - 接线
   - 编译并上传上述代码
   - 连接wifi
@@ -474,7 +474,7 @@ String getWifiSerialData(){
 
 - 接线图
 
-  ![LCD1602接线图](../arduino/img/LCD1602接线图.png)
+  ![LCD1602接线图](https://github.com/krokami/Image-Hosting/blob/master/arduino/LCD1602接线图.png)
 
 - 代码
 
