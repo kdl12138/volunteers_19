@@ -1,0 +1,8 @@
+﻿  other_log.c
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other_log.c(21,14): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other_log.c(30,17): warning C4047: “=”:“int”与“void *”的间接级别不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other_log.c(31,19): warning C4047: “=”:“int”与“void *”的间接级别不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other_log.c(32,23): warning C4047: “=”:“int”与“void *”的间接级别不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other_log.c(33,25): warning C4047: “=”:“int”与“void *”的间接级别不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other_log.c(34,18): warning C4047: “=”:“time_t”与“void *”的间接级别不同
+  大作业.vcxproj -> D:\ProgramDate\Microsoft\VisualStudio\大作业\x64\Debug\大作业.exe

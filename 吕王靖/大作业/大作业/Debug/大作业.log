@@ -1,0 +1,210 @@
+﻿  card service.c
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,27): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,41): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,49): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,29): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,35): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,37): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,41): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,25): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(5,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,35): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,51): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,38): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,97): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,31): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,28): error C2365: “log”: 重定义；以前的定义是“函数”
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(480): message : 参见“log”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(44,2): error C2371: “Node”: 重定义；不同的基类型
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4): message : 参见“Node”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2061: 语法错误: 标识符“card”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2059: 语法错误:“;”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(5,12): error C2297: “*”: 非法，右操作数包含“int *”类型
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(5,21): error C2065: “current”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(5,13): error C2100: 非法的间接寻址
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(5,27): error C2065: “next”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(5,22): error C2100: 非法的间接寻址
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(10,31): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(10,31): warning C4024: “strcpy”: 形参和实参 2 的类型不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(11,30): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(11,30): warning C4024: “strcpy”: 形参和实参 2 的类型不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(22,16): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(23,8): error C2223: “->data”的左侧必须指向结构/联合
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(24,10): error C2065: “current”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(24,16): warning C4047: “=”:“int”与“int *”的间接级别不同
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(27,8): error C2065: “next”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(27,16): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(28,7): error C2065: “next”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(28,9): error C2223: “->data”的左侧必须指向结构/联合
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(29,10): error C2065: “current”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(29,12): error C2223: “->next”的左侧必须指向结构/联合
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(29,23): error C2065: “next”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(30,11): error C2065: “current”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(30,17): error C2065: “next”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(32,6): error C2065: “next”: 未声明的标识符
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(32,8): error C2223: “->next”的左侧必须指向结构/联合
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(35,7): error C2371: “queryCard”: 重定义；不同的基类型
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(5): message : 参见“queryCard”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.c(36,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  main.c
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,27): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,41): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,49): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,29): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,35): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,37): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,41): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,25): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(5,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,35): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,51): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,38): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,97): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,31): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,28): error C2365: “log”: 重定义；以前的定义是“函数”
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(480): message : 参见“log”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(44,2): error C2371: “Node”: 重定义；不同的基类型
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4): message : 参见“Node”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2061: 语法错误: 标识符“card”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2059: 语法错误:“;”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.c(14,16): warning C4013: “addcard”未定义；假设外部返回 int
+  menu.c
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,27): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,41): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,49): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,29): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,35): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,37): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,41): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,25): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(5,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,35): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,51): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,38): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,97): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,31): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,28): error C2365: “log”: 重定义；以前的定义是“函数”
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(480): message : 参见“log”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(44,2): error C2371: “Node”: 重定义；不同的基类型
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4): message : 参见“Node”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2061: 语法错误: 标识符“card”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2059: 语法错误:“;”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\menu.c(15,8): warning C4013: “ptintf”未定义；假设外部返回 int
+  tool.c
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card file.h(7,27): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,41): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\tool.h(6,49): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,29): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4,35): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,31): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(5,37): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2081: “Node”: 形参表中的名称非法
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,35): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(6,41): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,19): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(7,25): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(5,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\card service.h(6,5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,35): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(6,51): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\login log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,38): error C2059: 语法错误:“类型”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(6,97): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log.h(7,10): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,31): error C2059: 语法错误:“)”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\other log file.h(6,28): error C2365: “log”: 重定义；以前的定义是“函数”
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(480): message : 参见“log”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(44,2): error C2371: “Node”: 重定义；不同的基类型
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\list.h(4): message : 参见“Node”的声明
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2061: 语法错误: 标识符“card”
+D:\ProgramDate\Microsoft\VisualStudio\大作业\大作业\main.h(67,6): error C2059: 语法错误:“;”
+  正在生成代码...
